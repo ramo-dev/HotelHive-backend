@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // Define the directory where your JSON files are stored
-const dataDirectory = path.join(__dirname, "data");
+const dataDirectory = path.join(__dirname, "api/data");
 
 // Serve static files from the data directory
 app.use(express.static(dataDirectory));
@@ -25,8 +25,8 @@ app.get("/api/:location", (req, res) => {
     return res.status(400).json({ error: "Location parameter is required" });
   }
 
-  const filename = `${location}_hotels.json`; // This line needs to be adjusted
-  const filepath = path.join(dataDirectory, location, filename); // Adjusted filepath
+  const filename = `${location}_hotels.json`;
+  const filepath = path.join(dataDirectory, location, filename);
 
   fs.readFile(filepath, "utf8", (err, data) => {
     if (err) {
