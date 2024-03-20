@@ -18,17 +18,16 @@ app.use(express.static(dataDirectory));
 
 // Endpoint to search for hotels
 app.get("/api/:location", (req, res) => {
-  // Extract location from URL params and normalize capitalization
-  const location =
-    req.params.location.charAt(0).toUpperCase() +
-    req.params.location.slice(1).toLowerCase();
+  // Extract location from URL params and lowercase it
+  const location = req.params.location.toLowerCase();
 
   if (!location) {
     return res.status(400).json({ error: "Location parameter is required" });
   }
 
   const filename = `${location}_hotels.json`;
-  const filepath = path.join(dataDirectory, location, filename);
+  const locationDirectory = path.join(dataDirectory, location.toLowerCase()); // Convert location to lowercase
+  const filepath = path.join(locationDirectory, filename);
 
   fs.readFile(filepath, "utf8", (err, data) => {
     if (err) {
@@ -47,6 +46,7 @@ app.get("/api/:location", (req, res) => {
     }
   });
 });
+
 
 // Catch-all route for invalid API endpoints
 app.get("/api/*", (req, res) => {
