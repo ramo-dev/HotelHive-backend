@@ -18,7 +18,6 @@ app.use(express.static(dataDirectory));
 
 // Endpoint to search for hotels
 
-const fs = require("fs");
 
 // Endpoint to retrieve hotel details by location and/or hotel name
 app.get("/api/:location/:hotelName?", (req, res) => {
