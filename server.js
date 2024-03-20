@@ -16,9 +16,6 @@ const dataDirectory = path.join(__dirname, "api/data");
 // Serve static files from the data directory
 app.use(express.static(dataDirectory));
 
-// Endpoint to search for hotels
-
-
 // Endpoint to retrieve hotel details by location and/or hotel name
 app.get("/api/:location/:hotelName?", (req, res) => {
   // Extract location and hotel name from URL params and lowercase them
@@ -33,7 +30,7 @@ app.get("/api/:location/:hotelName?", (req, res) => {
       .json({ error: "Location or hotel name parameter is required" });
   }
 
-  const locationsDirectory = path.join(dataDirectory, "api/data");
+  const locationsDirectory = path.join(dataDirectory, location); // Fix path here
 
   fs.readdir(locationsDirectory, (err, locations) => {
     if (err) {
@@ -62,11 +59,9 @@ app.get("/api/:location/:hotelName?", (req, res) => {
                 `Error reading JSON file for location ${location}:`,
                 err
               );
-              return res
-                .status(404)
-                .json({
-                  error: `Location ${location} not found or no hotels available`,
-                });
+              return res.status(404).json({
+                error: `Location ${location} not found or no hotels available`,
+              });
             }
 
             try {
@@ -105,8 +100,6 @@ app.get("/api/:location/:hotelName?", (req, res) => {
     }
   });
 });
-
-
 
 // Catch-all route for invalid API endpoints
 app.get("/api/*", (req, res) => {
