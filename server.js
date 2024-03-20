@@ -25,8 +25,8 @@ app.get("/api/:location", (req, res) => {
     return res.status(400).json({ error: "Location parameter is required" });
   }
 
-  const filename = `${location}_hotels.json`;
-  const filepath = path.join(dataDirectory, location, filename);
+  const filename = `${location}_hotels.json`; // This line needs to be adjusted
+  const filepath = path.join(dataDirectory, location, filename); // Adjusted filepath
 
   fs.readFile(filepath, "utf8", (err, data) => {
     if (err) {
