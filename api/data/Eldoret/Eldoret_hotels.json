@@ -384,11 +384,7 @@
     "extracted_price": null,
     "rating": 3.9,
     "reviews": 547,
-    "extensions": [
-      "4-star hotel",
-      "Breakfast",
-      "Kid-friendly"
-    ],
+    "extensions": ["4-star hotel", "Breakfast", "Kid-friendly"],
     "thumbnails": [
       "https://lh5.googleusercontent.com/p/AF1QipNdZQ6bNSV2qelQEyK6FgapQ0u8azy59JkuX71t=s287-w287-h192-n-k-no-v1",
       "https://lh5.googleusercontent.com/p/AF1QipN1V6jIU79L_0Qp82CiLQR7scK1t8DSOn402SI=s287-w287-h192-n-k-no-v1",

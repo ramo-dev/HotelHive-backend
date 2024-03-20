@@ -427,10 +427,7 @@
     "extracted_price": null,
     "rating": 4.6,
     "reviews": 109,
-    "extensions": [
-      "3-star hotel",
-      "Kid-friendly"
-    ],
+    "extensions": ["3-star hotel", "Kid-friendly"],
     "thumbnails": [
       "https://lh5.googleusercontent.com/p/AF1QipOh5UHZzrxsqACWmvId3vW75V5d4YDUk-pStBCI=s287-w287-h192-n-k-no-v1",
       "https://lh5.googleusercontent.com/p/AF1QipMedWZFu9MRThpo3mbxJII5ZbPCuet7We7PpJ9f=s287-w287-h192-n-k-no-v1",

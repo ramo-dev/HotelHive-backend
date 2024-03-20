@@ -26,15 +26,26 @@
     ]
   },
   {
+    "title": "Anabas River Cottages",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Tana%20River&ved=2ahUKEwj-8_3RzvyEAxXdHAYAHX3bAvgQyvcEegQIAxB0&qs=MidDaGtJeTRMUWlKR3BsdFJuR2cwdlp5OHhNWEp3ZDNSemN6UXlFQUU4DQ&ts=CAEaPgogEh4KCS9tLzA5OGdjNDoRVGFuYSBSaXZlciBDb3VudHkSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.7,
+    "reviews": 3,
+    "extensions": [],
+    "thumbnails": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j9Zk202fihyWKBNOE2oD4Q&cb_client=search.gws-prod.gps&yaw=12.572639&pitch=0&thumbfov=100&w=287&h=192&scale=2",
+      "https://lh5.googleusercontent.com/p/AF1QipNTKSIWSfvnBrFcET-wbNPX9KqqBc3YwLS77fWF=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
     "title": "Marura Holiday Resort & Hotel & Apartment",
     "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20TanaRiver&ved=2ahUKEwi20rrSz_yEAxX4GwYAHQDVANoQyvcEegQIAxA3&qs=MidDaGtJcjlPWXU0YU9oWXZFQVJvTUwyY3ZNWEI1Y1daeFh6UmpFQUU4DQ&ts=CAEaPgogEh4KCS9tLzA5OGdjNDoRVGFuYSBSaXZlciBDb3VudHkSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
     "price": "Ksh 5,226",
     "extracted_price": null,
     "rating": 3.7,
     "reviews": 127,
-    "extensions": [
-      "Kid-friendly"
-    ],
+    "extensions": ["Kid-friendly"],
     "thumbnails": [
       "https://lh5.googleusercontent.com/p/AF1QipPpGg8hx81Wzv0db4sC8xJw61_mix0EWZkNHY4_=s287-w287-h192-n-k-no-v1",
       "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGER1upwTzKI1WGfXQugOENG8KxMjRUw0GI5nae7-Q5vWwWr7UOXbGcfpyOadO-CsuL-kJOoXps23AxXFweySMPU7OZPi8mPqhCKLkpFZRlXYjuN8pjKv_4dvG687QAVpc6o9nlCw0gu8y6VINW8xRFZyt7ua0fnJdW-CpTgHHNCFF7cJYJidg=s287-w287-h192-n-k-no-v1",
@@ -51,9 +62,7 @@
     "extracted_price": null,
     "rating": 3.0,
     "reviews": 9,
-    "extensions": [
-      "Kid-friendly"
-    ],
+    "extensions": ["Kid-friendly"],
     "thumbnails": [
       "https://lh5.googleusercontent.com/p/AF1QipOJGZ9tQgT_lvBLiLg_vcD3y91lbQCSfuyREjOH=s287-w287-h192-n-k-no-v1",
       "https://lh5.googleusercontent.com/p/AF1QipPCbJrlrxclJ6bcPE_xowoI1MlGniOtBkuGhDIl=s287-w287-h192-n-k-no-v1",
@@ -124,12 +133,7 @@
     "extracted_price": null,
     "rating": 3.8,
     "reviews": 43,
-    "extensions": [
-      "2-star hotel",
-      "Free Wi-Fi",
-      "Free parking",
-      "Restaurant"
-    ],
+    "extensions": ["2-star hotel", "Free Wi-Fi", "Free parking", "Restaurant"],
     "thumbnails": [
       "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHV8U69NPQMtY8xyA12EmRHk6aGpB-chqiuXtNsJBuPk5jvse_wgrQbDnSAkAnjw4nKdyPVxlphTH9xx5ZXxiE9WujoiDNJ7Y70-rclUtaRvDkpUc1aktscLZ8ft9XV8wGJvrJWemDaJPTMczRNGXfdDiFZenOlh9m14C8FW8sK0IAaSAF_2pk=s287-w287-h192-n-k-no-v1",
       "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHvnOG-U6Q07mDKuTbV-qt3KRRXWdGYsT1PsFsIN8PSt8qSkgzsnUvGWO-3mcazb_jgKGIeN976zmZCzbaHtehBjdzhyc-vHDFG6YL6L0G3CcMH14_aXOSNvA-lQw-LnuuYvM48QGoDU0a3nFReF5SyPWwvrEMNQiPAYptMHjtME8VERBCMndtL=s287-w287-h192-n-k-no-v1",
@@ -301,17 +305,30 @@
     ]
   },
   {
+    "title": "Delta Dunes Lodge",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Tana%20River&ved=2ahUKEwj-8_3RzvyEAxXdHAYAHX3bAvgQyvcEegUIAxDPAg&qs=MidDaGtJcU0yUXBOMmRydXh1R2cwdlp5OHhNV00zTUROeVkySnJFQUU4DQ&ts=CAEaPgogEh4KCS9tLzA5OGdjNDoRVGFuYSBSaXZlciBDb3VudHkSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.0,
+    "reviews": 1,
+    "extensions": ["Airport shuttle"],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGwgJSGOcqafxP3mu1AZhfVALVO44KEhjqcX1jXO_sG6Za7Z0NZ4pIBfQFfVYJhxvGg4YovgDhw3ldzXKTAxoMRb_Aj19Z85IERmb5y4WoVBRPLOHXlX-m2z19JnG-rBfqj2gu_pUcZPJZFwO3y7RyPtBucAywMokKYrj7A1OxLeIzH3WsCU6U=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFvznrJiJzULzz7EqaD6GVDN5L-xyOtiXbsOmUjTL1740yTx4uU7nTv76pkZMZbVLjZIlx0IiXpURsNtYcmwteYwV7-gKNxBZJ4sF5jDzvd-0O8Sg1xDtviBXJA8k3yzc7sxzETtdVee94JBcYvHaYgvwDPe8KMPTPqcObHxVgsvO5mv8mYMX8bXw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHuw8Zy_tDbiCUMrAtS1hknkoPA9C7lLoQIJxQaPrztivSAsU4WzHvPzCqqhY_tnumKPWmQHJzVRJHAZu9x0QdkrRUn8EQuPzuW8BFxgfhcsVmyFBYtfwlY1pF_7coulD_iPbmp79gFgYwEnRxyoVk6RXu7QcZEajv4y9HgunmpYqz6ExOM9yJ8=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHkWtuxMT7g0ZGGGwwNefnUq8CG3AHn15utUyjl9GpVzOW925F1uIvIhx6oXv0RU_5bxyL5lllMxNdim1P-gxgV9agVCcaRDAk7fwkoEaqr9EF0cs_n0JdI4Fxc33ryz6aDQ0bMPev5s_zlh53ar2jdS3M5EZdcNALnXqPHu1IlZ8u3pzWzudk81A=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGJciVbL7HivCqp1XPwsD4moG4daK_8KrB9y1IgbthTmfmXoM89P3lw43YpqFNybOu-5FH4KN0wgZRfeAxRMsTm31mbwN52A0Y7UyDneOYLDi55JDgZPlW6NjZJYjn3JR665GacZqhXnj4kZH0ofQt-_wWdWRj60U9ZySpYRlpaOyvQjtmCZ5Ld=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGQQ3hS6obAhuqt8OEV6XeFQTUvVWhDWcLZnuH61EL6MSloucQnJnXFzqVs5zfV3pzZdkRtqp3uYkF2Kkvg_zziqeY7upxpld0R2C9gl64pOH2wU6tM88Y4C8KPCAylB863Th2d1S0xpAkSn8pc7YJaJia9BO-O1env5VqvtmqovHHNH1qjs4OSLA=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
     "title": "Desa Homes",
     "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20TanaRiver&ved=2ahUKEwi20rrSz_yEAxX4GwYAHQDVANoQyvcEegUIAxDCAg&qs=MihDaG9JcF9IN3R1Nk85N1QxQVJvTkwyY3ZNVEZtTkhkMGQzcHNaQkFCOA0&ts=CAEaPgogEh4KCS9tLzA5OGdjNDoRVGFuYSBSaXZlciBDb3VudHkSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
     "price": "Ksh 20,491",
     "extracted_price": null,
     "rating": 4.7,
     "reviews": 3,
-    "extensions": [
-      "Free Wi-Fi",
-      "Free parking",
-      "Kitchen in some rooms"
-    ],
+    "extensions": ["Free Wi-Fi", "Free parking", "Kitchen in some rooms"],
     "thumbnails": [
       "https://lh5.googleusercontent.com/p/AF1QipP8514UyGk1R2bZcmdlFMFDTeTuq-85Sa3wQj3e=s287-w287-h192-n-k-no-v1",
       "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGXNoWKbMxhAOZoNQyIoDaWnMWtatBEZYPymR52PZkr8GOQ5xBL3_kfm7ZISgyqa1qW5WoIpxoYCJZA4LleAu7B3qw8ciX4jIKQW5gC9JWTOaJAfisDP3jLlQhuEP-Vl0jNedWlaU52mZoJ4Gok7mUKSVG3-AFXeNmWqCH_Nlqvx87-NHjpxYwo2A=s287-w287-h192-n-k-no-v1",
@@ -350,6 +367,23 @@
       "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n79AA8IPkiAzDMYlAXUEJw&cb_client=search.gws-prod.gps&yaw=196.19034&pitch=0&thumbfov=100&w=287&h=192&scale=2",
       "https://lh5.googleusercontent.com/p/AF1QipMknH0D6fzKzIIcB1gp5TZfUhm49dppUCLsZkMN=s287-w287-h192-n-k-no-v1",
       "https://lh5.googleusercontent.com/p/AF1QipPxCrlO_XWSvm4CTs1onLUf6qNS47ImgGRiYcoh=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Anabas Mount Kenya Lodge",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Tana%20River&ved=2ahUKEwj-8_3RzvyEAxXdHAYAHX3bAvgQyvcEegUIAxCZAQ&qs=MidDaGtJdWJEUHFhU0wzX0ZFR2cwdlp5OHhNV3A2TjJoZlkzRm5FQUU4DQ&ts=CAEaPgogEh4KCS9tLzA5OGdjNDoRVGFuYSBSaXZlciBDb3VudHkSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.1,
+    "reviews": 7,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipO5Ei5G4lxYzhAzz7D47fjIwAFiXA4QmLC2nC-i=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMKnr9DWWTOlPkbKF6zksrtbbv5ZQf5Xc_DtWCf=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMQRbM3WLq1kpJjsrwYjebzM6A3h2gah69WzPwq=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPd12OB3jO5ENXEAb_JgHuqdva7BQQAcKJc-LIP=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPI04MkEotHbtYplBftYRIP9SCOknMHt2gI8sw4=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipP1Hc14DBvfU1_nI9DycR-0nRVww1KlFeULhGh4=s287-w287-h192-n-k-no-v1"
     ]
   }
 ]
