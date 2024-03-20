@@ -16,88 +16,84 @@ const dataDirectory = path.join(__dirname, "api/data");
 // Serve static files from the data directory
 app.use(express.static(dataDirectory));
 
-// Endpoint to retrieve hotel details by location and/or hotel name
-app.get("/api/:location/:hotelName?", (req, res) => {
-  // Extract location and hotel name from URL params and lowercase them
-  let location = req.params.location ? req.params.location.toLowerCase() : null;
-  let hotelName = req.params.hotelName
-    ? req.params.hotelName.toLowerCase()
-    : null;
+// Endpoint to retrieve all hotels in a specific location
+app.get("/api/location/:location", (req, res) => {
+  const location = req.params.location.toLowerCase();
 
-  if (!location && !hotelName) {
-    return res
-      .status(400)
-      .json({ error: "Location or hotel name parameter is required" });
+  if (!location) {
+    return res.status(400).json({ error: "Location parameter is required" });
   }
 
-  const locationsDirectory = path.join(dataDirectory, location); // Fix path here
+  const filePath = path.join(
+    dataDirectory,
+    location,
+    `${location}_hotels.json`
+  );
 
-  fs.readdir(locationsDirectory, (err, locations) => {
+  fs.readFile(filePath, "utf8", (err, data) => {
+    if (err) {
+      console.error(`Error reading JSON file for location ${location}:`, err);
+      return res
+        .status(404)
+        .json({
+          error: `Location ${location} not found or no hotels available`,
+        });
+    }
+
+    try {
+      const hotels = JSON.parse(data);
+      return res.json(hotels);
+    } catch (parseError) {
+      console.error("Error parsing JSON:", parseError);
+      return res.status(500).json({ error: "Internal server error" });
+    }
+  });
+});
+
+// Endpoint to retrieve hotel details by hotel name across all locations
+app.get("/api/hotel/:hotelName", (req, res) => {
+  const hotelName = req.params.hotelName.toLowerCase();
+
+  if (!hotelName) {
+    return res.status(400).json({ error: "Hotel name parameter is required" });
+  }
+
+  let allHotels = [];
+
+  // Read all JSON files in the data directory
+  fs.readdir(dataDirectory, (err, locations) => {
     if (err) {
       console.error("Error reading locations directory:", err);
       return res.status(500).json({ error: "Internal server error" });
     }
 
-    let foundHotel = false;
-    let foundLocation = false;
+    locations.forEach((location) => {
+      const filePath = path.join(
+        dataDirectory,
+        location,
+        `${location}_hotels.json`
+      );
 
-    // Iterate through each location folder
-    locations.forEach((locationFolder) => {
-      const locationDirectory = path.join(locationsDirectory, locationFolder);
-
-      // Check if the current location matches the requested location
-      if (location && locationFolder.toLowerCase() === location) {
-        foundLocation = true;
-
-        // Read the JSON file for the location
-        fs.readFile(
-          path.join(locationDirectory, `${location}_hotels.json`),
-          "utf8",
-          (err, data) => {
-            if (err) {
-              console.error(
-                `Error reading JSON file for location ${location}:`,
-                err
-              );
-              return res.status(404).json({
-                error: `Location ${location} not found or no hotels available`,
-              });
-            }
-
-            try {
-              const hotels = JSON.parse(data);
-
-              // If hotel name is provided, find and return the hotel details
-              if (hotelName) {
-                const hotel = hotels.find(
-                  (h) => h.name.toLowerCase() === hotelName
-                );
-                if (hotel) {
-                  foundHotel = true;
-                  return res.json(hotel);
-                }
-              } else {
-                // If no hotel name is provided, return all hotels for the location
-                return res.json(hotels);
-              }
-            } catch (parseError) {
-              console.error("Error parsing JSON:", parseError);
-              return res.status(500).json({ error: "Internal server error" });
-            }
-          }
+      try {
+        const hotels = JSON.parse(fs.readFileSync(filePath, "utf8"));
+        allHotels = allHotels.concat(
+          hotels.filter((h) => h.name.toLowerCase() === hotelName)
+        );
+      } catch (parseError) {
+        console.error(
+          `Error parsing JSON file for location ${location}:`,
+          parseError
         );
       }
     });
 
-    // Check if location or hotel was not found
-    if (!foundLocation) {
-      return res.status(404).json({ error: `Location ${location} not found` });
-    }
-    if (hotelName && !foundHotel) {
+    if (allHotels.length === 0) {
       return res
         .status(404)
-        .json({ error: `Hotel ${hotelName} not found in ${location}` });
+        .json({ error: `Hotel ${hotelName} not found in any location` });
     }
+
+    return res.json(allHotels);
   });
 });
 
