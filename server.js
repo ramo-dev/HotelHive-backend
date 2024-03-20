@@ -18,14 +18,14 @@ app.use(express.static(dataDirectory));
 
 // Endpoint to search for hotels
 app.get("/api/:location", (req, res) => {
-  // Extract location from URL params
-  const location = req.params.location;
+  // Extract location from URL params and lowercase it
+  const location = req.params.location.toLowerCase();
 
   if (!location) {
     return res.status(400).json({ error: "Location parameter is required" });
   }
 
-  const filename = `${location.toLowerCase()}_hotels.json`;
+  const filename = `${location}_hotels.json`;
   const filepath = path.join(dataDirectory, location, filename);
 
   fs.readFile(filepath, "utf8", (err, data) => {
