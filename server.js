@@ -14,11 +14,12 @@ app.use(express.json());
 const dataDirectory = path.join(__dirname, "data");
 
 // Serve static files from the data directory
-app.use("/data", express.static(dataDirectory));
+app.use(express.static(dataDirectory));
 
 // Endpoint to search for hotels
-app.get("/hotels", (req, res) => {
-  const { location } = req.query;
+app.get("/api/:location", (req, res) => {
+  // Extract location from URL params
+  const location = req.params.location;
 
   if (!location) {
     return res.status(400).json({ error: "Location parameter is required" });
@@ -43,6 +44,11 @@ app.get("/hotels", (req, res) => {
       res.status(500).json({ error: "Internal server error" });
     }
   });
+});
+
+// Catch-all route for invalid API endpoints
+app.get("/api/*", (req, res) => {
+  res.status(404).json({ error: "Invalid API endpoint" });
 });
 
 // Error handling middleware
