@@ -5,7 +5,7 @@ const server = http.createServer(app);
 const cors = require("cors");
 const path = require("path");
 const fs = require("fs");
-const port = 4000;
+const port = process.env.PORT || 4000;
 
 app.use(cors());
 app.use(express.json());
@@ -18,26 +18,37 @@ app.use("/data", express.static(dataDirectory));
 
 // Endpoint to search for hotels
 app.get("/hotels", (req, res) => {
-  // Extract search criteria from query parameters or request body
-  const { location} =
-    req.query;
+  const { location } = req.query;
 
-  // Logic to fetch hotel data based on search criteria
-  // For example, read data from JSON files
-  const filename = `${location}_hotels.json`;
-  const filepath = path.join(dataDirectory, filename);
+  if (!location) {
+    return res.status(400).json({ error: "Location parameter is required" });
+  }
+
+  const filename = `${location.toLowerCase()}_hotels.json`;
+  const filepath = path.join(dataDirectory, location, filename);
+
   fs.readFile(filepath, "utf8", (err, data) => {
     if (err) {
       console.error("Error reading JSON file:", err);
-      return res.status(500).json({ error: "Location not Found" });
+      return res
+        .status(404)
+        .json({ error: "Location not found or no hotels available" });
     }
 
-    // Parse the JSON data
-    const hotels = JSON.parse(data);
-
-    // Send the hotel data as the response
-    res.json(hotels);
+    try {
+      const hotels = JSON.parse(data);
+      res.json(hotels);
+    } catch (parseError) {
+      console.error("Error parsing JSON:", parseError);
+      res.status(500).json({ error: "Internal server error" });
+    }
   });
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({ error: "Something went wrong!" });
 });
 
 server.listen(port, () => {
