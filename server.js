@@ -33,7 +33,7 @@ app.get("/api/:location/:hotelName?", (req, res) => {
       .json({ error: "Location or hotel name parameter is required" });
   }
 
-  const locationsDirectory = path.join(dataDirectory, "data");
+  const locationsDirectory = path.join(dataDirectory, "api/data");
 
   fs.readdir(locationsDirectory, (err, locations) => {
     if (err) {
