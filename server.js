@@ -18,8 +18,10 @@ app.use(express.static(dataDirectory));
 
 // Endpoint to search for hotels
 app.get("/api/:location", (req, res) => {
-  // Extract location from URL params and lowercase it
-  const location = req.params.location.toLowerCase();
+  // Extract location from URL params and normalize capitalization
+  const location =
+    req.params.location.charAt(0).toUpperCase() +
+    req.params.location.slice(1).toLowerCase();
 
   if (!location) {
     return res.status(400).json({ error: "Location parameter is required" });
