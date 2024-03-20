@@ -1,0 +1,363 @@
+[
+  {
+    "title": "Mara Frontier Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegQIAxAi&qs=MihDaG9Jd3VhQ19NM1J4NGJPQVJvTkwyY3ZNVEZuWjJobU1qRTVhQkFCOA0&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 6,330",
+    "extracted_price": null,
+    "rating": 4.2,
+    "reviews": 770,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Bar",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFhV-WxdZgz5G_OhAyZZM4_56v8R_r5kypyCbk_KdG1kQIVk6c1qlfm4h-efBmtwEQUjvTNJc4SFT1inbT7Ou59T3u5e1S7NBaIgb7l9kMrh3XA2hw4suI3rl7Vs4_jzOub98YvNwfspSBPyq6IU4_wPzFYwl5d2hTiFs2g7semeydUck687RM=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMwyE0h4bf-io3ByHV_cjokaK476Yqbo8fiw_na=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPwcCyh_22QuonA8rH2vCE5p6w9yjfUyLXmdyxh=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNmVvqXc1oAiilR1_cdhC1glWZkjk4DlZj5DT2k=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFDnuJdrh4uRQ3x4dclrMXdKrVB1D8vxZj65Re9naaeAILVu13dojj6JzcnQyZ_ogWmRUk4QpuHXQXSrR4woDSJhYGGHTuiebrTbpzlCGXMahtSMZUUW67CvDHPJrUDr3JhTtbrAdHZ8mk-PPqDeMEcyuX1vcu10w3PaTr71zLr2xaV2XsQ9ItD=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGj8VZe2noJ1mKXj-UqHX-egXiHz4oQMa_d_R14u1u4YLxqzMBVBsTHtKwX1Y5fnOwaXx7flmX6QsS0jaY6r222EByoVXqPsG67X1FBS1Yd3BqDhMLNKMmaFd-NqCs3_7O07weX1aDKbRcKoitCo20UDORUGE__0mArhZSddoh_PX-B4jVC_LXPFQ=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "OLOIRIEN HOTEL & RESORT",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegQIAxA5&qs=MidDaGtJek82SW84R08zZU1MR2cwdlp5OHhNWFprWnpWeGJUUnVFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 6,188",
+    "extracted_price": null,
+    "rating": 4.4,
+    "reviews": 17,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOE7XzOn1mXsHUOqKQtIzgWu5LwO9KHguUOtslY=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMkJOxxwKGa6qHi5_-1mwnXfXRMAZX-L6I547r0=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPmH6yuJwIsCJPDisEs8ThF0T7Jxhf9f_3oSPti=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMHJsfJKYaA5305UA3h7nXhkEZjgCc7FMW3fnHA=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOzwej0JcgYMSe1ya038FCcCDsyWMCPeUAz8oCY=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMSpoldXOKpDoSUUxT_gs0Op7FafchkpP5uNy6I=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Walabi Mara Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegQIAxBP&qs=MidDaGtJaDR5SW9KRzdrY0pnR2cwdlp5OHhNVzEyY25Kc1ptSTJFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 5,499",
+    "extracted_price": null,
+    "rating": 4.5,
+    "reviews": 60,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEs0GPygA8jR3iFWPxLeUVODjHG5f1IKSviIxUDnUygkcLAvWcfRTH_as2N3q-erxbNwCGi-_4bwJTO26SfVYj2VX9A1yrOpb5lSks-d8CeQS-0xvoO270jFpCKwWP5SBoAT6JvatkKU1dD1jxDckaWKypq97ZxljGJaORuV_UmBA18rFyWSSTF=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOEK8bs6vFBwFrCbbdRRv3eusfHHaV3JYYyJYY-=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFwMMHQaFwKzYZ7_TNAeHj8gSw58a2GEFH34DWrRcA7wbIqwe1pLNhRQCYLDvKYZJBk8cmGO9_LF_IUa5sEgp-h0b-sh-EoHsyHjrsgkTT5-n8hEzMwuSXQ3VRRNBMMNBZvISzwhsFYWz2Q8BMfOIioo_bIicl7ubBBTbe77FaFlx3GNetcnR7L=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEePMiwFjc-0kba_RAiT1QWfxf6OxXo9XK2DW7abIcfwyvrEujpQBlNVyXxaijb-VQ3s4ugbATSrg_yEKkR6bLqDi-iGsewU-Zbue_SalLGxFk_bw80iRDLUtIHvJ-m_-cMSUlWORzG_y7ErPMQi-41tmNqPqXev4Wq3ngZ5mclPj1qEewwjQF3=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN1zMmf_Kp8pwVOdRFaDqgel5cZF3qACPHGdcWa=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPzc_xCYuz1ht3SwT4P_wJfwPrUqgZDMkA5qtOD=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Olive Hotel Narok",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegQIAxBn&qs=MihDaG9JMGJmcW52eVEzcXVmQVJvTkwyY3ZNVEZxTURFM2FtY3lOQkFCOA0&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 4,269",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 229,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Smoke-free property"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipNRgaY0LlQCwEonQHSrmX6afBNP8OW11fPD8kGk=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNTaIIioJAkfHQgPq_qLmZv0vsOGr7c6DR2LfWs=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNwTKL2vZ9DQxuwvgnIrpFr6Sb9ReQMiWlamCnV=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNA1DoItmTtEgg7XbyeLDnYdsPVdSR8b88e-wPl=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMpY3maAKPtPRK8IBJmZW1RHTOZshCBxd_pHZpw=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO0D0OU2nUyKsb55fXwbAtTfIXf4V_6BJclA5Hm=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Zebu Lodge & Luxury Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegQIAxB-&qs=MidDaGtJMjQ3dzJwcnlfYnhNR2cwdlp5OHhNV2Q1ZG5jNWEzRjVFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 10,274",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 502,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFmTu2CU89cWMrtW610u4Z84mlj2JQcvy-SWyCY0fKGq-nzz3ljkrq_XUAmAM4P-c_zeqEHZ1F7oV5F2IxtAZ4huuvae7KWpGxHbAvPzFmfsliS5Kn94Ks9vC4HUWBiCS8uviIe2iHfOtyWOaRHgSD3F70iAh2_T_qtGJk7mJA6s65hPYX7ct0=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOFX4vcAhMff-sqlxlf9Rm2SGC05N5hxZ3c4iEt=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHgSZ2EcMx2dlVql0or4KLnc_X2aOjEBQ_kf4-RDVLI-wjMxYzEBUpLP7WqoeUoeoqdseaq3g4NKBkBIkvxWRvq9diq-9jeARubMapYhZ4TbUXVrIItnsFCpOj5ght0Gd_bXZCDRvCZ8UAIzOT2XmtqRn120M3jTKKcb7BzsYr0_UZjKF43TLjk=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH5V6HhbPVO9I3nb-y7YdCBNKLKstg-Qhz8jOp6BWWJp8f9qBvw8M19rYYP3PHgkb_g2NQoGGoChUrlA_rBfFflPcJsTJSjo892nAHjwZwJxglftQ1-svffm43Ym57NiU068qAjOLNykE5hnFXwtwWhgdbNdis4WObFh_YiNa00GdAPMlmGVyvHgw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFX6784-mli5wxHxwAcPXT1btjwNmiKsT3anhwNU6ArQOXRT1GfntyUVNwF3-pK4e66QszYmtbRLbfffcT7na16xRUHLJ4qUtvccBM-mlufD4tLZ3frBNpGhOScQdiPNHiSMVN4nw7BftsDVfYfPKf83BZBFoAgOefz8viWtKdY9Kg0E2KnlYw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEZJYBl_8PVLvc5rCSJghlrpRaJa-SqCiW36ES3J5d6t9jXrTt07YhwEMDRkgTBfqNA4PJEBgnPGMRVvqQy4vQGHuHIYUoX8OGvpZzPKZ3hkHpnIY7xnfoZruGJxYPgOTFfNIlBwrNAMNuJ8NawqQ3XcheOJpf-ZOyKjsx_GFQq1ZUbi-Qu16fv5g=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Seasons Hotel Narok",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxCVAQ&qs=MiZDaGdJNUszQTNObkVxLV9MQVJvTEwyY3ZNWFJxYURGdFoyd1FBUTgN&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.7,
+    "reviews": 958,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Bar",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHpP9klVsN6eW7DNmJEHhLAXbw8x8yz5ysaDU0VomAbDPWcu9USVxG81Fp74OKgLCqKOo5Xk1rABlA_NRz9qripIep3FeGZBId5aHcycD5erfSC3CIA2InxuUSf3ytbZPs6JaC1lHWfOKOuFwmeBQHurakd96i3cje3FDwnovnowUahgsLOX1ga=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOQmaECLIEe4qhGyv1e8YxdbjiJj2fmhFUIJcZm=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPWetSjZwr8qzXe4j8tpnx4J6UfSD4GDXXppE8P=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGDhSjWW3sWgp4nr4lIYJjDFFEA09ndfH3kF_qyaSBX44ZjpfMr_-ConNsSsOFJGmhs8h9IfzVBK8StOWEZMZbHy-zBgyGGq42Svdmf9FqT0mBlPG1MCjoKBNjFPVOpwFFnDE7VDNDjgkBlYHWerkXendlp0iO6KT9_NNxreMyEwD4RXKhbD1Er=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMD4c1xv4u7_sseH4BgnvMOnMcuhPd0xk71pw8B=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEYjXmyY4yuHhpX4Q0hLD_ZMkO9As4r-V4UeOhUMJe-uNP-TpHOw-BTvm8dxYs-er6-USmtMOmHgVVEl_1KXa7ulBG8EIveo2xG5hJnSH4ZzVDlHp_kzXsqylbFIlSr7w2dqY7a1CohzAtG66EE6FvyI-jqEoclRTHUUwbekxFHnhjLIT-d4ghI=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Esikar Gardens Narok",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxCoAQ&qs=MidDaGtJa3VfUDhxUDFfTXNqR2cwdlp5OHhNV2g1Ylc1d01HaGlFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.2,
+    "reviews": 149,
+    "extensions": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipP0Mn8YodGS-2EBhpDXR8I8oiD6FITossLWf7AU=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNZoqv4bxOH176cHUU_mw3oAlRTYJVVxWkD9F1k=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN2F9wuKeWH0TZRiKhORszX2n7Y5ZgOtQRNiy98=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO_ImfrD-YE9d8zGooIE_CU8Fz0ksPieSXQJirq=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO1ysuJA23dX3ykT8cAAKSBZwiZB5oZ0f5cQBo-=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN8Hv79f-DUscrGrqoTxaWeNmZYRfuHpTQYED9i=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Chambai Springs Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxC7AQ&qs=MiRDaGNJbTUyZHpObTNnb1FTR2dzdlp5OHhkbDk1T1RrelloQUI4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.8,
+    "reviews": 402,
+    "extensions": [
+      "4-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Bar",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOCksh795ZmYL8wC66GG2t2vTIZTxa11TSUdarB=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOi3o80rgdLoyRyrK48if9ZA6udbuMUA7GrUbdF=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO_FRMXKHGOd0C_YucdG1SpwdIfTlkzzHr9-JTh=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPkyB3H_269scdQCEr1ELcn1wQP4jdoNkT55KUc=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOWrSf3aIND4_hU-aumi7M-D8Y6N5oJkC_19uUD=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNI-Z_rvJzpIpXmf5TPJEtLKAHK8RJmHzIRkXdP=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Osim Country Lodge",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxDOAQ&qs=MihDaG9JcmZUYnRadloxcFdMQVJvTkwyY3ZNVEZqTVhadVpIWjVkQkFCOA0&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 3,848",
+    "extracted_price": null,
+    "rating": 3.9,
+    "reviews": 229,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHYmhNwCXvrg2PFzn-FJ_6JcBExV_EB5zBIml6xsgsrLuYgCJhoWgAs6FcQrFnIyWy4TugUfOWpzgQIpxWIiyQuIKe3JzXpt7FGErgRmZ8tWm1QJJztlgjsUY1ACEhlGFHcpXbteeYFTHWiOfiInvQChObn8OIRzmMlFeZYXoFLqkBZE-zgR5Wr=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN3cIpC-Wt_5UWQSm8-eL1ULuoya06ecQ_Y_kdt=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGmYUNdwB3JuVYPXnZeM6hftzyPvP5gLcIG8mFEj2AUPFDYEAX713IyUVEGszb-PE_YiJI6RQbTYZzyH-JlCNeY806y4sv5VQlVTdj13jomnXXhENikdzylhm65ibUAkcpv-IdzUKE702YX7e0al3pd0o9UDcXAu_1ExyZCvaEqC7Bk_LjPMAc=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGuEVWElHN6AVi7GN-Wg5U_wk2FRI3Ifgyq_tkWGiLTle46GKH2d_AgZKX7Qt-aV2XpcX0m8GsTfrWbgVndS2L1kOLBKI-txhfCI2EGXBUNmvvWZJa3E78_u04rC6nnYMJ58gb3TcKTVN-iW0IHgcDTO5V_dSoT0Mhsq-GJckmZZb7ORs4FZD-l=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMqcLFVdfDzRlh1eLv-G6VXcn4FOptsJWi4VQ0Q=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO2oabiMMH6azdDFu8vrapcW_qGPzoupSwyeGQ7=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Oleng'oti Gardens,Narok,Kenya",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxDlAQ&qs=MihDaG9JMk02RTBxdWIxcHVtQVJvTkwyY3ZNVEZyTTJ4c2JYTjVkQkFCOA0&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.2,
+    "reviews": 49,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOsfNxgHnd0i9sPZ5MdLb5NewEDpZHEEEeCU3E_=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipODXo4tdG3RfwKYtBKCzdJ5o-eh5WMqRN5FPm6V=s287-w287-h192-n-k-no-v1",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5v3aYsj1tmDgihohN7B3Dg&cb_client=search.gws-prod.gps&yaw=23.572178&pitch=0&thumbfov=100&w=287&h=192&scale=2",
+      "https://lh5.googleusercontent.com/p/AF1QipNAeunbyC8MC3I5y-I5zjwKeCf1ZM9tT-qU7BjT=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNnA5CatmfffwUpO6wXoQZbfaYCDXL-tLUwXtUW=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPFWBY7gqQHwG97gfMbEvP5QegHIE6ZcerCQopL=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Lexington Hotel, Narok",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxD3AQ&qs=MidDaGtJNTdXMHM0cmcyNlVjR2cwdlp5OHhNV00xT0habWVUWTRFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.7,
+    "reviews": 213,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Pet-friendly",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Kitchen in some rooms"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHU9hxAlEtvWJotrARuLv4eB3sMPVeA7Kb_VAbRvZrtH5NknaRRsLgSh7TP-BmGwNrbSCiq42bdVop4LoZDFWsuCyD_lg24FYG_rNKW_fo17J-YOhOJAoUPmxg49R7p1f1SAbO2qY7Iqhdcky7n_kLJAIZdhAdGP4_HLS87P-Q0h7G-9xd6RWp4WQ=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHEz9p1piNXEyr8AH83ac_if9o7qRzAdOWt8DLVAoZpcmkvj15ThEeysUw2B3oKQ7vK2pbiROLarngeyiJgNlJbLXPt2YphAbkc6WkbPdErA_nwo29p6xBngBevjdtoKyhY0SH4zdW-2AK035dlLFgVfAFjI08DF9E8UPYqv_JGAD-1wecSXHc7=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPaKnilFlqsbjPdQ1Z2F-3m_CgvAdLJxK0lPkQg=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEXQKxvFxbOfOLYbGoH5YQBsupTmMf1-4jFDnY3bg4lX2gbbTFXLKGw8GqgmEwC7olv_WRvGOP3Lh5-FxKa79TWHavnsNtnM8l_lYwP3Od0rYiLJzEkiMZNoXaf8ufKjVYW81hitFVgHB7UtsfwUa-OBfA6oWn2Ys7nmHs4nvEKzycGmVckxeNyeA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFhQEft-kYod262lpr4j_hymc24hQPejjcbaE_HFdw9Zys6IEXWfqgDCCSKpKuh0Wh20xaTMVsyHm4HZuHeDRB3GfvRv0_giBENBPVn5s1IAdATVg3QgBbnRldZw5_3QrdzArNixX_8mZ1Zm6DUI8AChRvztxbQD7Rgio04wmItfGlygHrIfPM7=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEwEcxj5Njhbg8bpdN6ZQRzp_qbedI5EZSZArfEyzuLHpQ1zeId3b4HLSNfTHuPL9cAVpqMvcoH71qtYWOcfA2wXzW63aEDSsj1w72cNQnkGyW39KVxBbTw-eSnzDoPU89gUA6ePlZqrNUiPJWlI4fmC0DMIip-9AoinxSILKGdpcWdYGF3c24QEQ=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "LYNSON AFRICA RESORT",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxCKAg&qs=MidDaGtJcFBEUnljaXU3dWxuR2cwdlp5OHhNWFJrT1Y5M2FuWnNFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.7,
+    "reviews": 28,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEoUKA4ymtjNe2h_3aQ3iWdvvfArH2Lm-4Ak0Bf1hzLAFAvfHpOhThiQ-uwAyiQviyIad7oz0wrFbJkUkZFhbYdjDwnxF2jmnReb_jEIZLRy1QSU67-YIj06BWgcJtKmEGrtklpYYMvr_TFvDoTBjjDtgUSIKFcGI4di-4rxQ5ZbCYoK0KlYZVv=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOIJ3mQwgDffNeVyqs2wWkRehJ_ZPROLigEo-46=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOl4AtyXrttn9Fed0B-wu1VQbXy5jaxNLlfqe1v=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNaCOv-Y2CynJ7XElr7l35YCkKf0tzb8a2-lkeQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMxAKiaqKV-P-BZUxqd34Cfhakewbg5dZZTbI05=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOBZqR3BYvPiSOulYVpJLlKdiChxivEPvM7laHX=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Maralink Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxCcAg&qs=MidDaGtJcWFIWTBaN2NoT2hJR2cwdlp5OHhNV051TVRJNVl6ZGpFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.6,
+    "reviews": 275,
+    "extensions": [
+      "3-star hotel",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOldOvpx-1aYwPs1uUvxtiOxR-2YS9zK2HzCYUK=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMyNmaZAsdJzsBRN4Fn3q79N8iZ5Z89uIQKLGo=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipP9JI6VrmK2VnSfu4IBYUHFjmddJKGLbLQxfeIa=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNMH7WaKqrh4tyYiy2nHK0IgV3hH8qcR95GZcOU=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMnRj8Z8uawPI7KnIb2X26Ij1Qwbh77JWTqmGMr=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNcg33tXtr_iejxLO0Y7-Vwws-LKfS-erfdB3mp=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Olorropil Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxCvAg&qs=MidDaGtJLUpTbTZKSzJ3ODRIR2cwdlp5OHhNV2N3Y2w5NGFuTjRFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.9,
+    "reviews": 22,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFjAJsfTgDoiMO_rls5JwOXyFhAputm_aTQY9OePSVM9QGr1_zcGAamVXOGRkcnQQJdh1iCVyEfc5qNvNAQy0mYKnqDb-JnyLWy6FpPIattYXtcFWW06IdoA5GmW8kM0TL8XK5rlK9-k8ATo412QkOIAaBCeWKRPpmfhxoN_1ibPMx3O8Rwogqn=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF261L8F2AqJgEKkEgPdug7-czhK2OchUr0VUshKsPDhuNZoZ6dcN6f9X2VHKlpkJSKeAoMeDOd-a_ZBtgVG_5lKTLUiKI6khCTxhVJRtcMuxwJCmnpVyvPTGmwBEtA_PBjRFFDsNmiLJlMAQtL8LFT2fwTYtyo68ScofKpHojPRkcQFlwP8x6U=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFbaVFRNGiRDslgwYGzkNVB5Y-aQgkn-nsxEemfgC3WSOAV2EIqfD45cZnWrv-dvCjnRhjaxwBTXDvVJUjEMLA1PhjeqiuS1Meg_hqUHjpmSN6wmiLFGmJExO-6bP-qaT2BPqXueUzqpoNz2YHqdQFruksO74FN5VfW4cbC64HZr7k8RwOM7JE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFBOHnmgCWYgf08q7nN3xkW0QNZre4ElitPNp-5b8VQ3AbJb5_PoqnGr3dXjiE3mqwxJy3fq-05c_MQ_GTpb5SW-7sEhXzVRb0jHYAVkZQd9akv7ucGCmTYLVQrR5y1mvie80B56-kBwNTIY-V-zgScO2zFQ9C-NwEa-E5ib-Ppgpy0DbVZYuqh=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFrfDO61EvFmeBAY4hwZO7BjGZvCWIhga6LzedlZEMmNxL-wMVa1CeCCNuClQxmm5uDfQHnNKmg35WqzRAulcJX-Jn_QVASORkaFd3W0dih8XIqvNYCBtF2VkZ5lDqI17hzjUGfybZRB5gBG-87TepYw6nlilhb-5HKeDtNjUPM9XQAg3M0p5v6=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFtmGavSuHfD_26n-MzZDoVL-VV_Qme9kOIvczpAbpFhr7zRTeYnnS-Qxz8XGByI7zCJZIbPl2raincf4YJFv9czfXw2CDV3ef1lh0cIJEFGMwGNtj7uJH-eNNb2Wh9gqw87WDA8mtrDjr9bXOguey7lzrqn4E35qje4Grd0WrhTc5nozsc0Zw=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Location Plaza Restaurant",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxDBAg&qs=MidDaGtJM1lyUXE2SHZ3Y1FMR2cwdlp5OHhNV1kyTmpKNk56ZHlFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 1,925",
+    "extracted_price": null,
+    "rating": 3.8,
+    "reviews": 11,
+    "extensions": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Kitchen in some rooms",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHgrestnrCR3ypNWOpF3jmX2VCItMgKLHKfgMAhDIR2KJxUKNl7VAqUE5Eiz0AOn5FBIIIOOBEtvpKY8Vf4icNDTv8uXxjkMVUgBdUnBnF7-4vHeAPl1EDGnhKgnpnb9oLJXFxM_ii2RHnyzQDkio6DAKJEM2rKIPfQ57iz70RC7I4VIbnDexE=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO4bnW7z6b1gEBZR3aif7QizvSWxov1nws0XL8P=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEqbaETgRUoC_92_YTo0WeDnmW6TV6R1sbkZGjYChAa6vMGRuvStlCNao72JP6k777C-r9mRSaiOInIrHNyGlC8p_Oq4516UTBxVbJDK02-OyushgKbQOtAga4FKCyczpvHYcbihZG4LDdnzjGDXrjY27rs43G9dN-lZcVmuFXQzQokGE3pecGt=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHJ5tcmeqMG7qcEX0QczWfemH6XzpKPy6NpN-7lZVYYepLI7RvdButxAwiNaCDy9RVErJZ-p8Yh2tqOhvo3SRiWZmvqrfbwcQxmeqKGKrs7A2kFLqpdS9L9UACgpx8KeCWs0xnAwhMZSiTF_SqAE0GkdTQthGhrF3IK5IbY4X2LxnUiFITPQtg13g=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGTNI6wQ18r_yBnhVH5uxiCcskgHaO5fL9I2ZX2tuFMKH1d56MCfOQzRM-LoFKlEGE7-vGlCGdpV4T0jhp_c9cA07UPZetjCEGyq5ecUU9pO1IX9qsVE3FZdxCivVTZ4PToORz7uQjhJyRGQFQzjJ0WYXlthUNKLKi_QSGTichV7i2J8lEYrAPE=s287-w287-h192-n-k-no-v1",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eH77w1FJF2PpeFAIwORbiA&cb_client=search.gws-prod.gps&yaw=176.41487&pitch=0&thumbfov=100&w=287&h=192&scale=2"
+    ]
+  },
+  {
+    "title": "Monga’re lodge and Restaurant",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20Narok&ved=2ahUKEwjrs4iD0fyEAxUwS0ECHbxGAFwQyvcEegUIAxDYAg&qs=MidDaGtJNGI3TWxvYTE5TlJIR2cwdlp5OHhNWE40Tm5ocU4xOXpFQUU4DQ&ts=CAEaMgoUEhIKCS9tLzA5dHY2MjoFTmFyb2sSGhIUCgcI6A8QBBgDEgcI6A8QBBgEGAEyAhAAKgcKBToDS0VT",
+    "price": "Ksh 2,030",
+    "extracted_price": null,
+    "rating": 3.5,
+    "reviews": 25,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFsuCnQHkCPvO848Ah4S_Ykug9Wd9hwAtQarHU1xC5bNqssXx4Ew9Nq-KyGKBmkXjsjB_qjkLQHUFtd5oiwpO_2NebiOt6GoaMLgx3IeI6lmMx5IrHp4DYtzip5nH4KGbgRYgHXZzd7g8wjIUj4odm3exLqvL3JubVKsiL5bE3zt28v-c3pFlg=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMG32XwqfVKuCLj_yGrGpH-nmpCo5Ufy1ZaFz4r=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE6ThEZCtnlE2qlsGUtfbDoxadQqDYM7CRiAxcCIHE894X2KJy2OBhMXX_Jcr_1KSf4eQcW7gPXyk7o856Kq8a1yFpmvKOhnGWvbK_p0lWTvl2LW8R9KggKeXrWu3zSNxlb9oBgxuG8VErZF_jwfpzmFxFu_RSjkPuUMlyXtTnLGUgY6fY0cT0=s287-w287-h192-n-k-no-v1",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QRaMwRS-Hbwd0Cwnt-B5eA&cb_client=search.gws-prod.gps&yaw=164.08696&pitch=0&thumbfov=100&w=287&h=192&scale=2",
+      "https://lh5.googleusercontent.com/p/AF1QipPAtsHOOGlbvZcEj2HbqwzAguIQkl_xAQHqUvw-=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNq9wdoOYCpIODa-xHQprsmfQNm5y7vSqRgEYOd=s287-w287-h192-n-k-no-v1"
+    ]
+  }
+]

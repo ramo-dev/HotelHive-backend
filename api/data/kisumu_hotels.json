@@ -1,0 +1,448 @@
+[
+  {
+    "title": "Hotel Riversand",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegQIAxAl&qs=MidDaGtJazZfOHhLcXBrcmJvQVJvTUwyY3ZNWEUyTW10ck5EaHhFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 1,731",
+    "extracted_price": null,
+    "rating": 3.6,
+    "reviews": 356,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipPcAAB60ENg3kS3eiDY6bj-_w2pu5g9fjKgxTRt=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPSxA3rRvb1YLG7LTEaZk-yTriQAmfCo3ChjYqm=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO-nUOpc2ibo9d9i931mUKqmBcEqySaXqzA2cKc=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGFPQH0H7Q7gMAnMZPuuc6r-0IngdC83z3ojTNAY4DCcuaPOaJNhVDAglk4NXVsTX54UBVWFfHmGWdPe6saAEmdLh26N5YQ6K86g7pqYKLlWSiUMVmfF_swrkxc_XoO-6l1CAeon2TTPi5EaC8gqlhxLNUPFSubI3mwWA9aJqH7-EXqsp6bSvUUZQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNADHZ1cvgaPsMUtDg26GtDwOX6DQicczXg66_i=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhErUb6lKKITd9rzchoHTXhs4P9iSf35p6tdPHBRE1baPnQeBUbpgxi2rgk6Y3n9GP5ASH8TgjCAkqXf9yYD0gP8jsu0_6HEEfBu_OZNBzzJizxGXnvFlT5bRRzQ0tMkZVdYuhU0nAgK7CDj78Sy683krqDzhHiyUmQamvP_afr1Ta-sw1HULOum=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Sovereign Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegQIAxA8&qs=MiZDaGdJaGJPcm1ZZi11ZUVJR2d3dlp5OHhjSEF5ZG10aU1Xd1FBUTgN&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 7,625",
+    "extracted_price": null,
+    "rating": 4.4,
+    "reviews": 1207,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipMbIQ_MLFmx_jUqq8QHQSs2Y1YLdTtv4eSIUxRE=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMgjnAWA3BJmwoQF9rUbAf7V4pv14O-ZgS4ETTO=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMwMMe7rgQmGW8Q6hTk_OGLofM6QHtK7JkCN2QA=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipP5sArC9lOwwPMxp3Ty1BzqOPdZlKq4VuF_-zTx=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPWqPnQe5zPP_lq4fwDXhwMdIWcjB8OFr92b6l5=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPOO9GWfF_nc-MYdgV6lsCY9IhwSpVP0r3CSJZw=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "ACACIA PREMIER HOTEL KISUMU",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegQIAxBT&qs=MidDaGtJcThMbHRjWEpzOENpQVJvTUwyY3ZNWEIwZDNoZk4yTnRFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 24,067",
+    "extracted_price": null,
+    "rating": 4.5,
+    "reviews": 3096,
+    "extensions": [
+      "4-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipMroF5-Bpzmaoq8XGQZG04rnHnWh9jNljbEQ7Xz=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNIhXE_WjfMMJo_oi9plHINvjAJOlRHMkOrWU1w=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFol0dR-RrtcSFu5xn-BvD4EH6t4it-pPh19N-luxMVGIHL9ENY1os88ez1BfgGFNMo4bWunYgH3edeltKZGilCkm-2pmEaslsUt_xTkMATstr-eeauQPyKfxsz40kX5-ox0U_3H1pRKoAQZZ7pI40eVMyOpKzRuR9HrlsN9FPDiWPp5qyRm_XQ5g=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNE95Yx_KtdWAdv8BK55Q9xluxF9Jslxr7Sl8Ez=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHxTRzcjQtOP0gp2Ukt53JbNc99PTFdbk1cUQ1xr8boezZ_k3da-qAh1_eVL3_IxHVcfRRk4g3UJdBWL8agMGCUSlR2k0MP1vXpSWhK6q4HnWqBG_QF34cJbxWez-2rPD7ETwX7JwXq5pIec_gp4CAUOSWQdTu9fF2TXSZcXyTxn8xlEqIDO_Ux=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO2UUn6jbiTnux6XWINlt3am3OmmzCw1QKfA3C7=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "The Grand Royal Swiss Hotel, Kisumu",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegQIAxBr&qs=MidDaGtJcThQZV9OLTc1T1IzR2cwdlp5OHhNV015YkRsc05HaDVFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 12,356",
+    "extracted_price": null,
+    "rating": 4.4,
+    "reviews": 2285,
+    "extensions": [
+      "4-star hotel",
+      "Breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE6G5085eZUpjUhQCu3R7b99tHYRKWJZMnEQmEiHCQhdbKKA9w870IUU-PsziB9_a6o_8ibydQTGDd2fAc82OZWsIKymgQAkGXfGTFNsBhPVoFCP8iUX0jM3xfqlpILTii-n8SZuqPEHvqoTH8IVBU_8Qd0DgvgE2EgJj3qWOPrV1Z5r6_m03wslA=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPN2OGKv2bzU8NIPuwP20ZaSz4bCyDtGBPn9UCN=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEu9eiby-RrWejTB_Z_8Q_MA2eJFXsRQuqIjAd4v1bUC05EF7C8vghb3VUOEtMu4vZ9rvmnSjpkmS4a6YYkwqCFNVeBCfur-OmfLpribRzQNbs9WNLLpSXZkMIJKYTJYR1-pugDlqXfU9h6_9l7oRyciXYG3TfG94UPkB3uWbczuF-qhysvWEw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFbBS75qOh9hTN0vT7c5sJuKyIUDoPlNyNA3rnT6f_znsTtJbk4kcOXnu5XpKeWa-wbCiMG-Nql3UiV7PXOHkLzisHnM6hkMqMo-lcqw0TaRixUWpUQGvEA5NzGMRzNHSmRsafTWo3LyMHHwbHl_7eRCdW8aeJO7Zfj7oFZ4SyWrF_Q2nXeg0Y3=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNsTtnG8CHQ86SrE39p2A4OKgxGvNbP5ai-vYDe=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOuCRe4Mrcn7FlBwqYaLAnArpZRpk2c0Fe5EWTx=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Best Western Kisumu Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCCAQ&qs=MidDaGtJNnNxOS0tRFNrb1JlR2cwdlp5OHhNV28wY0hFMGEyWjJFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 10,198",
+    "extracted_price": null,
+    "rating": 4.4,
+    "reviews": 491,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Hot tub",
+      "Air conditioning",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHKfLuFCcSJuxQDHOOHr-Ssl058AEbTdHqXiNHPJPmu9T-zvkXUHCNFagnf38W0VA3eV4O9B23DHRTx6XHAE4vXFZDfUB6-2dJdtQj5GFfZ__P79BZGUzgJLmt56ywvghMkYObL2mWnxDntkI7DYzQWDCLrbCmS2ndLay4rIO35E0wMT7PoQyEAMg=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN1oaD378tEes7XTxl6D-1bCgopgw5ag5s04EoW=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEHIupxgzch5BYiLjtVTttMRJAhkNsQ0RdXIbXctct4xl-72c8rQaGdprG-fjgUSCWd_FSM7lBIIBh7-o404DA0OX0vX6dK_1fCZ999-qt6Hx4xhlIua4zinukf_a3o6D--0GssrmkLt1Tmf6fU9xklkMbrwCYMR9ZuosqolE3GFmWtA0w6ermf=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOK_FF9Ku1aCEDCq4F88DrbXBF0z8Rj8bbjR_1B=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN8-R632vfVXUffl6Fxw9vG-UZs6Hhr1iC8gcsM=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipM9slFIKv3lZ12npAoo88OwLq45JO77anZxPboB=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Melvic Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCdAQ&qs=MidDaGtJNV9PQzEtZnV1cVlHR2cwdlp5OHhNV0kxZVhCNWREWnNFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 4,676",
+    "extracted_price": null,
+    "rating": 3.8,
+    "reviews": 311,
+    "extensions": [
+      "1-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOaJjNoAKb30aoBraLjQOj4S_WCADrgKXyxqog9=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPVzapp13UDfA-MSozup0rSkFnlQ3hnlZUUBCZQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMq1KupvvLYM2je1gh87-tiEwjD8VOFzB3GN3ZN=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNKrCiwAzX29gn6VGVzEW0W5Ef7RP1ebL__mYKv=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNuuU5McgxJqshMcMFuvxsrQ2hO0iJU1yodbXLR=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipM0e7nV1CkL86R6lcDnNX9Xc9vg-49CfIzH_CGb=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Sarova Imperial Kisumu - Hotel in Kisumu",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxC4AQ&qs=MihDaG9JdzRfX2tfUGlybzM4QVJvTkwyY3ZNVEZpTm1Sbk4yMXpNUkFCOA0&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 20,706",
+    "extracted_price": null,
+    "rating": 4.2,
+    "reviews": 1087,
+    "extensions": [
+      "4-star hotel",
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Airport shuttle"
+    ],
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH4_dYVjIUsF3TK-K5FdXnF4puM87Tv-zIS7KAWVclQu9D4_Z22PBc7jKqvjaO5i5ycratWeADLM03eBRXeVj1yCva2uxbc-T3awWKTcaij2dU_HpArgm90J8wvMC4YkdsZjOvraPxyqWXOu2KuzyW1dIAdEQHwEx93SQ5YsPq-vVQLtHrcLz2P=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPC34uInCzWqsL41HXSkpwpv9WBIF95k7i4hCcL=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNtezpEAwe1ejUFD0DSw3l0jNXr3H2LHYwmgJfm=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNtsCoVVP_f7WH-YpyqBeipKFtrdMKIKIY_FN6k=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHw5BoMvQl8obHmVzxz89b17SYD-7QFAGxexUg9eUNWunns6atdKtwywUPsJQZZGNHlR-UuTe_J_OM7q2olx4VARTNamnyuRrWsoOcLgmXkA3VmXsP6173hzCaGJPg-JvpZ7f3kSaimMNUaeYmRZzJk6K1GBxbvLa9_JxTR2IIDbE-HPb2yCJbh6A=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNH0_KEuRMoQ-0bJOfe3F4aFbqpFusxnRqXpTdB=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Milimani Beach Resort Dunga Kisumu City",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxDPAQ&qs=MidDaGtJM015S3FObjQ4cjhzR2cwdlp5OHhNV2QzYldnd01XWnVFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 9,304",
+    "extracted_price": null,
+    "rating": 4.1,
+    "reviews": 497,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOcBBPmCtqIGJ2NRecgX9SvwoTumtRAAQk_J1o=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEOM2dQcOMX0qRX2vUjKi78xiunWD8Fo9220PaF1HdBkW2wIgBh4pkQ3JOdZZ8JVbHon6plpRPDPSv_6Lk-PLeaDWxidT61yxDeOt6twqi6YSC_nTXYq9FAvqPJUJP7NyJYcr4MS3DESSJYRTUwDN-OBS0mRzrg31SeH-gsAPYbBW0WhCUbrxJCIQ=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHwSwMn-ygD3W50czqtCKBe1alJvBlcXxpivdtl1etKXR9tJRoExs5YCWxko9Sk8SqkcAsROgsyngaSmClkUxVm7cRV2mOQSEcjyfDSOr2kente4_Vt__0VeJuz6kS-OqLxMM8SnLMjJ2xxusPiMtE59nYudX9roX1a2TH_-4ysRoBoECxSnX6i=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNr4KmQnbgBHyDnhGa4uLmMbUVAMAc6Oc_LpMmF=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipO8Gzd44L-CNEGb67RkRVN257Dh1eZi2ORbG_FT=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPSBxS_ZDJqOZan5np6rDLvvf_UZ7W-UsN99788=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "JUMUIA HOTEL KISUMU",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxDmAQ&qs=MiZDaGdJME5XeHU2V210UElmR2d3dlp5OHhjSFkyZVdka1lqQVFBUTgN&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 9,353",
+    "extracted_price": null,
+    "rating": 4.1,
+    "reviews": 867,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipMwjKRJFrZiikwTq_cHuiFt2KWY-qgg2w0LCokr=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPvs7AUhvrZSLiwJ7UUWQj0WyBqD9aUgQWmH7XP=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFlPTgDoqbUols4_v2tiqvZFJiJmE53Fv9igf6O7OqzZeVs1cxDIA5KH2_Wjpg0F16jF0YWLOq6MYleyJ12C4gdRh8XA8gy6um2mXY6FnIVkcROeaJtNs-NVBraJZ1y2eiCIHcJ_502nUl5Yza06G1oN6QphmSWvaGvaEcuuISguvx3IUIBbFr3=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPgCDb0ifZ0svQKzl_et6UjEFwJp76yhryMESoa=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPTL4d-rSVmVkoqIutvDejaq7SqN1Hf_1e8oGqi=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN49sE02NXynkUC9N4AI2x0S0etAKQ1BE6qPb1q=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Lago Resort",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxD9AQ&qs=MihDaG9JOXFuWTFkSzd1ZXpuQVJvTkwyY3ZNVEZqTldJNE5tWnJOaEFCOA0&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 3,273",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 69,
+    "extensions": [
+      "3-star hotel",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Restaurant",
+      "Kitchen in some rooms",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipMQqnfwNc3nAQoxlurdgpNNqwcuQKDwKaINDkEl=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGl4Nj54zkcxk1L1GXL1_mooGNM3b2yOjJH7yUUc0S5M2dy4vvFkF0_AwWy82ErSm6gVzpFFI5_-LSAqDFAXJupoTTiBln4e5WA1g5uOKtjexsOJBfECVgyD5Tts1TPF0xRHAPMvI-7BA2EBeXorXZfAaOb9E6cjukBegVXaEHM6vX-WXWf-zOj=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPtSQfveTLw8KbCwKt0fQQToJ8WrKfCBU-NNyKv=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPhOUWai7iQ0igcaJo631-ydIUkPbaC4c92inVA=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMH_UydoVCDX-jg2e2_4OsWK-8Tx10UiUhMIvG6=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPvuF9Pwpx3re1MsrKSduU8q6ehNRpi7MUpLNFh=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Whirlspring hotel kisumu",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCUAg&qs=MiZDaGdJcmZhdi1iZUduZjZUQVJvTEwyY3ZNWFJqZDJKbWQyNFFBUTgN&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 6,189",
+    "extracted_price": null,
+    "rating": 3.8,
+    "reviews": 428,
+    "extensions": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipNZkvY9b1Um2bzgshYpmqGfW6lqqCMVT44ZvtTr=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHk7ZcT8arml4mvedPcvvXkiclo2cqpY79Mu3SbjNsucnlPjfQW2gTwjlpk00rQ79SFUI_48yJ1OsPuftEQtR5b4XGXQOrdJ9tf2R_NQ3POBowXV3r2t2_T33WwlAWrY8YqqR25PQrzVbKLBpr5ZVfRQaLJieQnF8tmqN3Gd3js-QWRsL7gIAfgVg=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGR_0l0YcwKUOWW2YWQmv3Q7NFLB9zvkISf05Gnhz7vCMrEHZLaykH6hkpANnQ2FWgyt083PUNiD15NlzS7fAqajc5QzmC24Ay8dhd7FuSEjXYJwWX8hKYufTbdWDzbJKQ11LB1yDQ-a6CqnZUzx1aemZUrkk88UO3jS3rD8QmwzEwmG9z7n65zvA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEJLLgGZI3uRlLux15YXSPLC8WjGB6MCMPwKjJ8JsaNu_QD7RV31KyAqir5Uotz9degkgtFZerenm7ZC3n-7SeHwZW1_q_oHXn_Ci_jkg_cQCQkiXbvKqfB1yNZKvsrNWiCEIWkt7qmm-nciP6RJaMRHTNwCQsG_mYv94BCLKwvqBojbhVgtJo=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEs7jkGyB73Xqv1WJbc5BVfpe7W5-T4lLWM-_p4G9J51F8UIfCatqE2L419FBZOYZ3MFSqj1gB2yxR3fUEyUK7Ccp6lrEJdQrW-VHZ9IOL7dny-acDIMnK91civSSH6sEg6UxAUiO2CyDOi_sjF8ejJGDX6izMEB6UKOqucQgg2i5Y-jlMXxs5J=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMd96AGXqbkIK4KBBCh7cAIz1fppKGlR1Sxh77V=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "The Vic Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCrAg&qs=MiZDaGdJd19YVzRaN2QzcU5JR2d3dlp5OHhhR00xWkcxMk5YQVFBUTgN&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 19,253",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 1209,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Bar",
+      "Restaurant"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipMqK1xNDH8UUvoyJfXkVT7ZiIWckmDSDVquHcY=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH2CE9fVikMaz4uTyo_TjMGpGJ75ahNLF75LMNW8JlRdHzIkkXW3JtuhLPFk5GbR2lkZla623nEaehjJyfUkqAUBSG838ox2RYl7syqR8YoHVVl0wyQYMa5JMFJgQN8h_we7gCFlczTIVuD5l-NetlNvPt0w8DRtdT5-AHLLytV-fLTrHlQ-lXzCg=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPjKyienXXmv6Ya9rxErP4w8rr9zB8Wz31ANvds=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMZokQpOm9EL0i5IyXcD9WylItJptDjobgWnmkT=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGjJmuWxmv-IkCaNeBd_dxd4xfoaYHsPBzyH-CCcySUUlIotO8HDuihsW8qEnXZo0gBDEGrNeG3bvZT1UKOKAVBl4abtTXIqm72s_kyomolN-Roa9aihxvAtjlfRJ7rRpehQrwTGHfgKtMnP6PF5r-uj2Vv5lNpA5uPujWCJvIypKWlwUsjhd-8UA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH4GC_OLFZyKiZbtFE-7tfId-XNEXDKzprrbhFqXPbeem8MC9WKS7e6M7V2-LncxfoRgLIgSwkw06J3rLcs0x92RRGK_cFsyagmdn79smjBekgSR73DWk53UiEhfDkHSrx5-fejLJoLJjM04TRJHEwueWGTHqBYhrOP78MEjEtKLe09sYxM7roF=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Ciala Resort - Best Hotel in Kisumu",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxDCAg&qs=MihDaG9JOWVHZzJQLW12SlhMQVJvTkwyY3ZNVEZuTVd4M01XeHhkQkFCOA0&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 18,938",
+    "extracted_price": null,
+    "rating": 4.6,
+    "reviews": 2387,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipPWTRpic3nZWYGObhYgP6H5yJ2vEPutMKuzeN6_=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOX3b2AcLdxzd4mXb9bzbD8orHiUkZ_oKAiHCZE=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMUJnqC_CZCdCWVkRgIkblfqkrj3PZo0el9kk-s=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPinDKMbWtHgh-i__HVKXLvesW_cpD-E0lZ_Vsr=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipN1-btdXyN92pU-BE7xIhQ9O47uqSdwHDGyKZAa=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPhzswJ7ybb0qXI4872xogkOC-j0qjCs1jbxUht=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Balmoral Beach Hotel Kisumu",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxDZAg&qs=MidDaGtJaHFQYXVPRDE1UEVSR2cwdlp5OHhNV280YURab01uQmtFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 6,950",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 66,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipOaV11rKXHDVA1djuFpoQg1l30_Yl51scs1yXMa=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMMzFi7yuXGDVM0hjzkofCRiYf_vzqDNPAGWrTO=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNSYxARREW2P9AbX2drKA0dWz3jtfYiefR-7gAl=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOQXuPgcA3YIBS3rvJIloaZbSNVzkmyco47c2sQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipP-U83DLGtjjeb5Z3h4SyHpqO9I_KtRnAxBwcaP=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOZ6MXeUdKZSKL2zA4_X4i8tm9bBgY_Q7Cvgobt=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "The VIP Luxury Lounge",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxDvAg&qs=MihDaG9JMEtMRWg3YkVob21aQVJvTkwyY3ZNVEZ3WkhGc01IaDVOeEFCOA0&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 4,871",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 119,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipNOqxMIsedOZp8LG13e854SIxandQDFwZXKVKuT=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFayAnMVR2-XVJA2wVzlNT9LE1SAQkAHHB6YSAjZlFmDm2-X21Y3mdvNiIzvMewAclOUlf9cHfe0TVR6ZNqy4kgFOGdMDxY79-c6isFdtSVmF4KVGA43GS9hKxUpZUJfGOhO5zCBzIIqZd9oOyPAt01KxswAunOjXJafeAKCJhEkktNzkyBMSrM=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEzJkdRP1J9b5NH80WF8v8HHatkYDfVcTAUphSpFjX4qJc1VvT38DdcHnhlj5r-7MRZ7sZXoojVMVbOCGx0bDjz21_DaCyjjdxnqrhcnyzWawmawzUcEZXm03bS4bkzif98EcdBo9-wPX-kMv2AEoVar8yc0Kf38k3CYaJ1PsFklUNSHqN2zojOLg=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE6k5YMuTbddOFlh1yY1ZDO5oPTSvgXtAl9xQi_NX52IVTCeECQ5l5vr61PJarIqtOF5r2V3RaefKPWNlfBtWihU0YftQ9T2wXkxmOMjw8PJp2-TjNhRrT2uEAlr-SunWIMB6uZf5HTlheiiYN8nBKarFbKk0ZfPtKXyJYZNgx29aMsKXrF9t25Vw=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNkctBtAhAENFKi5G7IJZorUwJAXfW-W56YPsk2=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipM5UOR41ri4637jpZ7loyN6O01DpFmsCxxuEVAz=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Kisumu Hotel",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCFAw&qs=MidDaGtJZy0yTjYtU0FpNVdvQVJvTUwyY3ZNVEV6WmpVMWNtUjJFQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": null,
+    "extracted_price": null,
+    "rating": 3.9,
+    "reviews": 1148,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Outdoor pool",
+      "Bar",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipM4MYEH7JE4wmel6oXSz2Lw_rpAXtaeOPnVuuop=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNBEpkjaPrgPIlOMl2SngUwMI29VW4iU0TZI5JY=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOSa8SJ34lo07pLFDtHJ76M0j4ZfPO2-_J5v3SE=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPMWaw-_APE65nxFPfcC7vDdqGVeGJHp8O7B6BV=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhER5X9u-gY_a4_yQKrBBAKjhx9mtNPFR0b5EnpUdBiPh3HcxE2-SmrF9I98ywOiUG-5RUxkBzFCvnSGSfso4IZb7tHBn-REPFcKCx0vvPGz7M2R7A5W5zSDtqE1Ct-8LcCMm6ARHiROWXxqakUN6MtCnOe2cDlvrEzLH1LNCXBgBF_b9Bf1mjfFxQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPPyPCOk7rXWQC7mh7GO_hk6pEzQqI9ToK_3sc7=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Imperial Hotel Express",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCYAw&qs=MidDaGtJd2Q2QW92dU5fLUU4R2cwdlp5OHhNV0o0Wkhsalp6Wm5FQUU4DQ&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": "Ksh 8,500",
+    "extracted_price": null,
+    "rating": 4.3,
+    "reviews": 717,
+    "extensions": [
+      "3-star hotel",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipPzAmaYtpsizCSd6ADenrlUxdw7UAM_LkiVCeh3=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHQkw6ZE7PS9Sr_Tx01pKi_TcDw0rLqDNmWy3bavwgHuT-UttQeHm4H4mnh_zruIHUKZd6PXQVJCBeI6FsaxrJFCGt1kvqFGLMf5ZPMwcx8nnSD0LApAlF8pFYSeOtux73zgZZSN2glVBvwCeSY4YscKIlu5jpZQhCFbX2EkGgaLLQWuZBC8uQ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipPkDnl_zSVegLNk7Q67UuXAa7Zt5tUxew6OWfEY=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHZE7MTREXPeNjEjoK0t3mFyyVpx50Q8Ur1Q62XRo-PjH3a12f7IoWeP7wAVYXhb8M4txPaRrgdGRI5dW_BsWUmQovNlgZ41TJtVujt9hAJC6i-dE9M-9YcgR8WjSQEpJVx4rwQHMdS4EnWr6Fi7S98rbZUY5I-34UPPtlUhcczrzSI3TjDyNPnhw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhENUV17fUiV_YShQEuehGmZghBGREmaWQrKEm0CYkzi2ctSAEyArC4pCwhCsM7RPj3aovUVrkNDsjnR0vEYgHOXz_9iOP4954VdpCI4AEKebgaCbeM4r1jamKTPF3PYR-VYcln_BOOCRdXeV3Szyrw5Vn5ThPsmM5G47SdfiNc8b1InPK2o2eku=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvZtN-l4zJkBhSZ_86ldlre09SZ8xpfX_FrRdyihhdWpwAPNecAEpViJ_IlaH_zXLZzuOZ16RVQRZg7t8oNs8aJk3Qcjp0181dARPEmpRXs4DSeBSNkhjdYj2Dz99OsfBcGgsGxTEllfsO0n43F4HTW0uqu0uGIWDOUXqe4kX1OVgrnrFKiFD-=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  {
+    "title": "Kiboko Bay Resort",
+    "link": "https://www.google.com/travel/search?q=hotels%20in%20kenya%20kisumu&ved=2ahUKEwjBi6TUoPyEAxWsHAYAHdX2C2gQyvcEegUIAxCvAw&qs=MihDaG9JNmZEZWpyR1M1dnJoQVJvTkwyY3ZNVEZpZW5SZk0yeHpjUkFCOA0&ts=CAEaMwoVEhMKCS9tLzAyazY0MToGS2lzdW11EhoSFAoHCOgPEAQYAxIHCOgPEAQYBBgBMgIQACoHCgU6A0tFUw",
+    "price": null,
+    "extracted_price": null,
+    "rating": 4.2,
+    "reviews": 660,
+    "extensions": [],
+    "thumbnails": [
+      "https://lh5.googleusercontent.com/p/AF1QipP2NL-fip9aWWtIgF5DnC5umP4_OpUPbyIwWJFJ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNMVTa_--1zypNR6mY6VMMsFqL7sDzoJDrLqBJZ=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipMk8i0b8NjHQPhzmk0oHNRySdpbQiudFopmdRql=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOaccP9gr0T3pC1BbDAElGIXT1ywN0lm4Qx3wdl=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipNHlYLsm9GMcfZlvYkOBpPSK5ovP3GPKaVf_gFY=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/p/AF1QipOZXPT_rMiABOqnciHI0crBEjJ7wJe0U-wb9pg=s287-w287-h192-n-k-no-v1"
+    ]
+  }
+]
